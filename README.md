@@ -1,4 +1,4 @@
-> BAHAN <
+> [ BAHAN ]
 ```python
 pkg update
 pkg upgrade
@@ -9,7 +9,7 @@ pip install bs4
 pip install rich
 pkg install git
 ```
-> RUN SCRIPT <
+> [ RUN SCRIPT ]
 ```python
 git clone https://github.com/Xenz-11/xmfi
 cd xmfi
