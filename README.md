@@ -1,4 +1,4 @@
-# Kasih Bintang Ama Folow Anj🗿
+# Kasih Bintang Ama Folow Ya Anj🗿
 > [ BAHAN ]
 ```python
 pkg update
