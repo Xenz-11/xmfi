@@ -13,6 +13,8 @@ pkg install git
 > [ RUN SCRIPT ]
 ```python
 git clone https://github.com/Xenz-11/xmfi
+cd $HOME
+rf -rf xmfi
 cd xmfi
 git pull
 python xmfi.py
