@@ -1,5 +1,5 @@
 # Kasih Bintang Ama Folow Ya Anj🗿
-> [ BAHAN ]
+> [ COMMAND ]
 ```python
 pkg update
 pkg upgrade
